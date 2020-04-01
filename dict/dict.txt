@@ -1,0 +1,88 @@
+激活函数 nz
+定义 nz
+activation function nz
+adadelta nz
+adagrad nz
+adam nz
+仿射层 nz
+affine layer nz
+注意机制 nz
+attention mechanism nz
+alexnet nz
+自编码器 nz
+平均池化 nz
+反向传播 nz
+通过时间的反向传播 nz
+批标准化 nz
+双向循环神经网络 nz
+caffe nz
+分类交叉熵损失 nz
+通道 nz
+卷积神经网络 nz
+深度信念网络 nz
+deep dream nz
+dropout nz
+嵌入 nz
+梯度爆炸问题 nz
+微调 nz
+梯度裁剪 nz
+glove nz
+googlelenet nz
+gru nz
+highway layer nz
+icml nz
+ilsvrc nz
+inception模块 nz
+keras nz
+lstm nz
+最大池化 nz
+mnist nz
+动量 nz
+多层感知器 nz
+神经网络机器翻译 nz
+神经图灵机 nz
+噪音对比估计 nz
+受限玻尔兹曼机 nz
+循环神经网络 nz
+递归神经网络 nz
+relu nz
+残差网络 nz
+rmsprop nz
+序列到序列 nz
+随机梯度下降（sgd：stochastic gradient descent） nz
+softmax nz
+tensorflow nz
+theano nz
+梯度消失问题（vanishing gradient problem） nz
+vgg nz
+word2vec nz
+autoencoder nz
+average-pooling nz
+backpropagation nz
+bptt nz
+bn nz
+bidirectional rnn nz
+categorical cross-entropy loss nz
+channel nz
+cnn nz
+dbn nz
+embedding nz
+exploding gradient problem nz
+fine-tuning nz
+gradient clipping nz
+inception module nz
+max-pooling nz
+momentum nz
+mlp nz
+nmt nz
+ntm nz
+nce nz
+rbn nz
+rnn nz
+recursive neural network nz
+resnet nz
+seq2seq nz
+sgd nz
+深度学习  nz
+机器学习 nz
+人工智能 nz

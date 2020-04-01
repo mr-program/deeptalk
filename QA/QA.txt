@@ -1,0 +1,783 @@
+激活函数的定义是什么	激活函数	定义
+激活函数的概念是什么	激活函数	定义
+什么是激活函数的定义	激活函数	定义
+什么是激活函数的概念	激活函数	定义
+什么是激活函数	激活函数	定义
+激活函数是什么	激活函数	定义
+激活函数定义	激活函数	定义
+激活函数概念	激活函数	定义
+激活函数	激活函数	定义
+activation function的定义是什么	activation function	定义
+activation function的概念是什么	activation function	定义
+什么是activation function的定义	activation function	定义
+什么是activation function的概念	activation function	定义
+什么是activation function	activation function	定义
+activation function是什么	activation function	定义
+activation function定义	activation function	定义
+activation function概念	activation function	定义
+activation function	activation function	定义
+adadelta的定义是什么	adadelta	定义
+adadelta的概念是什么	adadelta	定义
+什么是adadelta的定义	adadelta	定义
+什么是adadelta的概念	adadelta	定义
+什么是adadelta	adadelta	定义
+adadelta是什么	adadelta	定义
+adadelta定义	adadelta	定义
+adadelta概念	adadelta	定义
+adadelta	adadelta	定义
+adagrad的定义是什么	adagrad	定义
+adagrad的概念是什么	adagrad	定义
+什么是adagrad的定义	adagrad	定义
+什么是adagrad的概念	adagrad	定义
+什么是adagrad	adagrad	定义
+adagrad是什么	adagrad	定义
+adagrad定义	adagrad	定义
+adagrad概念	adagrad	定义
+adagrad	adagrad	定义
+adam的定义是什么	adam	定义
+adam的概念是什么	adam	定义
+什么是adam的定义	adam	定义
+什么是adam的概念	adam	定义
+什么是adam	adam	定义
+adam是什么	adam	定义
+adam定义	adam	定义
+adam概念	adam	定义
+adam	adam	定义
+仿射层的定义是什么	仿射层	定义
+仿射层的概念是什么	仿射层	定义
+什么是仿射层的定义	仿射层	定义
+什么是仿射层的概念	仿射层	定义
+什么是仿射层	仿射层	定义
+仿射层是什么	仿射层	定义
+仿射层定义	仿射层	定义
+仿射层概念	仿射层	定义
+仿射层	仿射层	定义
+affine layer的定义是什么	affine layer	定义
+affine layer的概念是什么	affine layer	定义
+什么是affine layer的定义	affine layer	定义
+什么是affine layer的概念	affine layer	定义
+什么是affine layer	affine layer	定义
+affine layer是什么	affine layer	定义
+affine layer定义	affine layer	定义
+affine layer概念	affine layer	定义
+affine layer	affine layer	定义
+注意机制的定义是什么	注意机制	定义
+注意机制的概念是什么	注意机制	定义
+什么是注意机制的定义	注意机制	定义
+什么是注意机制的概念	注意机制	定义
+什么是注意机制	注意机制	定义
+注意机制是什么	注意机制	定义
+注意机制定义	注意机制	定义
+注意机制概念	注意机制	定义
+注意机制	注意机制	定义
+attention mechanism的定义是什么	attention mechanism	定义
+attention mechanism的概念是什么	attention mechanism	定义
+什么是attention mechanism的定义	attention mechanism	定义
+什么是attention mechanism的概念	attention mechanism	定义
+什么是attention mechanism	attention mechanism	定义
+attention mechanism是什么	attention mechanism	定义
+attention mechanism定义	attention mechanism	定义
+attention mechanism概念	attention mechanism	定义
+attention mechanism	attention mechanism	定义
+alexnet的定义是什么	alexnet	定义
+alexnet的概念是什么	alexnet	定义
+什么是alexnet的定义	alexnet	定义
+什么是alexnet的概念	alexnet	定义
+什么是alexnet	alexnet	定义
+alexnet是什么	alexnet	定义
+alexnet定义	alexnet	定义
+alexnet概念	alexnet	定义
+alexnet	alexnet	定义
+自编码器的定义是什么	自编码器	定义
+自编码器的概念是什么	自编码器	定义
+什么是自编码器的定义	自编码器	定义
+什么是自编码器的概念	自编码器	定义
+什么是自编码器	自编码器	定义
+自编码器是什么	自编码器	定义
+自编码器定义	自编码器	定义
+自编码器概念	自编码器	定义
+自编码器	自编码器	定义
+平均池化的定义是什么	平均池化	定义
+平均池化的概念是什么	平均池化	定义
+什么是平均池化的定义	平均池化	定义
+什么是平均池化的概念	平均池化	定义
+什么是平均池化	平均池化	定义
+平均池化是什么	平均池化	定义
+平均池化定义	平均池化	定义
+平均池化概念	平均池化	定义
+平均池化	平均池化	定义
+反向传播的定义是什么	反向传播	定义
+反向传播的概念是什么	反向传播	定义
+什么是反向传播的定义	反向传播	定义
+什么是反向传播的概念	反向传播	定义
+什么是反向传播	反向传播	定义
+反向传播是什么	反向传播	定义
+反向传播定义	反向传播	定义
+反向传播概念	反向传播	定义
+反向传播	反向传播	定义
+通过时间的反向传播的定义是什么	通过时间的反向传播	定义
+通过时间的反向传播的概念是什么	通过时间的反向传播	定义
+什么是通过时间的反向传播的定义	通过时间的反向传播	定义
+什么是通过时间的反向传播的概念	通过时间的反向传播	定义
+什么是通过时间的反向传播	通过时间的反向传播	定义
+通过时间的反向传播是什么	通过时间的反向传播	定义
+通过时间的反向传播定义	通过时间的反向传播	定义
+通过时间的反向传播概念	通过时间的反向传播	定义
+通过时间的反向传播	通过时间的反向传播	定义
+批标准化的定义是什么	批标准化	定义
+批标准化的概念是什么	批标准化	定义
+什么是批标准化的定义	批标准化	定义
+什么是批标准化的概念	批标准化	定义
+什么是批标准化	批标准化	定义
+批标准化是什么	批标准化	定义
+批标准化定义	批标准化	定义
+批标准化概念	批标准化	定义
+批标准化	批标准化	定义
+双向循环神经网络的定义是什么	双向循环神经网络	定义
+双向循环神经网络的概念是什么	双向循环神经网络	定义
+什么是双向循环神经网络的定义	双向循环神经网络	定义
+什么是双向循环神经网络的概念	双向循环神经网络	定义
+什么是双向循环神经网络	双向循环神经网络	定义
+双向循环神经网络是什么	双向循环神经网络	定义
+双向循环神经网络定义	双向循环神经网络	定义
+双向循环神经网络概念	双向循环神经网络	定义
+双向循环神经网络	双向循环神经网络	定义
+caffe的定义是什么	caffe	定义
+caffe的概念是什么	caffe	定义
+什么是caffe的定义	caffe	定义
+什么是caffe的概念	caffe	定义
+什么是caffe	caffe	定义
+caffe是什么	caffe	定义
+caffe定义	caffe	定义
+caffe概念	caffe	定义
+caffe	caffe	定义
+分类交叉熵损失的定义是什么	分类交叉熵损失	定义
+分类交叉熵损失的概念是什么	分类交叉熵损失	定义
+什么是分类交叉熵损失的定义	分类交叉熵损失	定义
+什么是分类交叉熵损失的概念	分类交叉熵损失	定义
+什么是分类交叉熵损失	分类交叉熵损失	定义
+分类交叉熵损失是什么	分类交叉熵损失	定义
+分类交叉熵损失定义	分类交叉熵损失	定义
+分类交叉熵损失概念	分类交叉熵损失	定义
+分类交叉熵损失	分类交叉熵损失	定义
+通道的定义是什么	通道	定义
+通道的概念是什么	通道	定义
+什么是通道的定义	通道	定义
+什么是通道的概念	通道	定义
+什么是通道	通道	定义
+通道是什么	通道	定义
+通道定义	通道	定义
+通道概念	通道	定义
+通道	通道	定义
+卷积神经网络的定义是什么	卷积神经网络	定义
+卷积神经网络的概念是什么	卷积神经网络	定义
+什么是卷积神经网络的定义	卷积神经网络	定义
+什么是卷积神经网络的概念	卷积神经网络	定义
+什么是卷积神经网络	卷积神经网络	定义
+卷积神经网络是什么	卷积神经网络	定义
+卷积神经网络定义	卷积神经网络	定义
+卷积神经网络概念	卷积神经网络	定义
+卷积神经网络	卷积神经网络	定义
+深度信念网络的定义是什么	深度信念网络	定义
+深度信念网络的概念是什么	深度信念网络	定义
+什么是深度信念网络的定义	深度信念网络	定义
+什么是深度信念网络的概念	深度信念网络	定义
+什么是深度信念网络	深度信念网络	定义
+深度信念网络是什么	深度信念网络	定义
+深度信念网络定义	深度信念网络	定义
+深度信念网络概念	深度信念网络	定义
+深度信念网络	深度信念网络	定义
+deep dream的定义是什么	deep dream	定义
+deep dream的概念是什么	deep dream	定义
+什么是deep dream的定义	deep dream	定义
+什么是deep dream的概念	deep dream	定义
+什么是deep dream	deep dream	定义
+deep dream是什么	deep dream	定义
+deep dream定义	deep dream	定义
+deep dream概念	deep dream	定义
+deep dream	deep dream	定义
+dropout的定义是什么	dropout	定义
+dropout的概念是什么	dropout	定义
+什么是dropout的定义	dropout	定义
+什么是dropout的概念	dropout	定义
+什么是dropout	dropout	定义
+dropout是什么	dropout	定义
+dropout定义	dropout	定义
+dropout概念	dropout	定义
+dropout	dropout	定义
+嵌入的定义是什么	嵌入	定义
+嵌入的概念是什么	嵌入	定义
+什么是嵌入的定义	嵌入	定义
+什么是嵌入的概念	嵌入	定义
+什么是嵌入	嵌入	定义
+嵌入是什么	嵌入	定义
+嵌入定义	嵌入	定义
+嵌入概念	嵌入	定义
+嵌入	嵌入	定义
+梯度爆炸问题的定义是什么	梯度爆炸问题	定义
+梯度爆炸问题的概念是什么	梯度爆炸问题	定义
+什么是梯度爆炸问题的定义	梯度爆炸问题	定义
+什么是梯度爆炸问题的概念	梯度爆炸问题	定义
+什么是梯度爆炸问题	梯度爆炸问题	定义
+梯度爆炸问题是什么	梯度爆炸问题	定义
+梯度爆炸问题定义	梯度爆炸问题	定义
+梯度爆炸问题概念	梯度爆炸问题	定义
+梯度爆炸问题	梯度爆炸问题	定义
+微调的定义是什么	微调	定义
+微调的概念是什么	微调	定义
+什么是微调的定义	微调	定义
+什么是微调的概念	微调	定义
+什么是微调	微调	定义
+微调是什么	微调	定义
+微调定义	微调	定义
+微调概念	微调	定义
+微调	微调	定义
+梯度裁剪的定义是什么	梯度裁剪	定义
+梯度裁剪的概念是什么	梯度裁剪	定义
+什么是梯度裁剪的定义	梯度裁剪	定义
+什么是梯度裁剪的概念	梯度裁剪	定义
+什么是梯度裁剪	梯度裁剪	定义
+梯度裁剪是什么	梯度裁剪	定义
+梯度裁剪定义	梯度裁剪	定义
+梯度裁剪概念	梯度裁剪	定义
+梯度裁剪	梯度裁剪	定义
+glove的定义是什么	glove	定义
+glove的概念是什么	glove	定义
+什么是glove的定义	glove	定义
+什么是glove的概念	glove	定义
+什么是glove	glove	定义
+glove是什么	glove	定义
+glove定义	glove	定义
+glove概念	glove	定义
+glove	glove	定义
+googlelenet的定义是什么	googlelenet	定义
+googlelenet的概念是什么	googlelenet	定义
+什么是googlelenet的定义	googlelenet	定义
+什么是googlelenet的概念	googlelenet	定义
+什么是googlelenet	googlelenet	定义
+googlelenet是什么	googlelenet	定义
+googlelenet定义	googlelenet	定义
+googlelenet概念	googlelenet	定义
+googlelenet	googlelenet	定义
+gru的定义是什么	gru	定义
+gru的概念是什么	gru	定义
+什么是gru的定义	gru	定义
+什么是gru的概念	gru	定义
+什么是gru	gru	定义
+gru是什么	gru	定义
+gru定义	gru	定义
+gru概念	gru	定义
+gru	gru	定义
+highway layer的定义是什么	highway layer	定义
+highway layer的概念是什么	highway layer	定义
+什么是highway layer的定义	highway layer	定义
+什么是highway layer的概念	highway layer	定义
+什么是highway layer	highway layer	定义
+highway layer是什么	highway layer	定义
+highway layer定义	highway layer	定义
+highway layer概念	highway layer	定义
+highway layer	highway layer	定义
+icml的定义是什么	icml	定义
+icml的概念是什么	icml	定义
+什么是icml的定义	icml	定义
+什么是icml的概念	icml	定义
+什么是icml	icml	定义
+icml是什么	icml	定义
+icml定义	icml	定义
+icml概念	icml	定义
+icml	icml	定义
+ilsvrc的定义是什么	ilsvrc	定义
+ilsvrc的概念是什么	ilsvrc	定义
+什么是ilsvrc的定义	ilsvrc	定义
+什么是ilsvrc的概念	ilsvrc	定义
+什么是ilsvrc	ilsvrc	定义
+ilsvrc是什么	ilsvrc	定义
+ilsvrc定义	ilsvrc	定义
+ilsvrc概念	ilsvrc	定义
+ilsvrc	ilsvrc	定义
+inception模块的定义是什么	inception模块	定义
+inception模块的概念是什么	inception模块	定义
+什么是inception模块的定义	inception模块	定义
+什么是inception模块的概念	inception模块	定义
+什么是inception模块	inception模块	定义
+inception模块是什么	inception模块	定义
+inception模块定义	inception模块	定义
+inception模块概念	inception模块	定义
+inception模块	inception模块	定义
+keras的定义是什么	keras	定义
+keras的概念是什么	keras	定义
+什么是keras的定义	keras	定义
+什么是keras的概念	keras	定义
+什么是keras	keras	定义
+keras是什么	keras	定义
+keras定义	keras	定义
+keras概念	keras	定义
+keras	keras	定义
+lstm的定义是什么	lstm	定义
+lstm的概念是什么	lstm	定义
+什么是lstm的定义	lstm	定义
+什么是lstm的概念	lstm	定义
+什么是lstm	lstm	定义
+lstm是什么	lstm	定义
+lstm定义	lstm	定义
+lstm概念	lstm	定义
+lstm	lstm	定义
+最大池化的定义是什么	最大池化	定义
+最大池化的概念是什么	最大池化	定义
+什么是最大池化的定义	最大池化	定义
+什么是最大池化的概念	最大池化	定义
+什么是最大池化	最大池化	定义
+最大池化是什么	最大池化	定义
+最大池化定义	最大池化	定义
+最大池化概念	最大池化	定义
+最大池化	最大池化	定义
+mnist的定义是什么	mnist	定义
+mnist的概念是什么	mnist	定义
+什么是mnist的定义	mnist	定义
+什么是mnist的概念	mnist	定义
+什么是mnist	mnist	定义
+mnist是什么	mnist	定义
+mnist定义	mnist	定义
+mnist概念	mnist	定义
+mnist	mnist	定义
+动量的定义是什么	动量	定义
+动量的概念是什么	动量	定义
+什么是动量的定义	动量	定义
+什么是动量的概念	动量	定义
+什么是动量	动量	定义
+动量是什么	动量	定义
+动量定义	动量	定义
+动量概念	动量	定义
+动量	动量	定义
+多层感知器的定义是什么	多层感知器	定义
+多层感知器的概念是什么	多层感知器	定义
+什么是多层感知器的定义	多层感知器	定义
+什么是多层感知器的概念	多层感知器	定义
+什么是多层感知器	多层感知器	定义
+多层感知器是什么	多层感知器	定义
+多层感知器定义	多层感知器	定义
+多层感知器概念	多层感知器	定义
+多层感知器	多层感知器	定义
+神经网络机器翻译的定义是什么	神经网络机器翻译	定义
+神经网络机器翻译的概念是什么	神经网络机器翻译	定义
+什么是神经网络机器翻译的定义	神经网络机器翻译	定义
+什么是神经网络机器翻译的概念	神经网络机器翻译	定义
+什么是神经网络机器翻译	神经网络机器翻译	定义
+神经网络机器翻译是什么	神经网络机器翻译	定义
+神经网络机器翻译定义	神经网络机器翻译	定义
+神经网络机器翻译概念	神经网络机器翻译	定义
+神经网络机器翻译	神经网络机器翻译	定义
+神经图灵机的定义是什么	神经图灵机	定义
+神经图灵机的概念是什么	神经图灵机	定义
+什么是神经图灵机的定义	神经图灵机	定义
+什么是神经图灵机的概念	神经图灵机	定义
+什么是神经图灵机	神经图灵机	定义
+神经图灵机是什么	神经图灵机	定义
+神经图灵机定义	神经图灵机	定义
+神经图灵机概念	神经图灵机	定义
+神经图灵机	神经图灵机	定义
+噪音对比估计的定义是什么	噪音对比估计	定义
+噪音对比估计的概念是什么	噪音对比估计	定义
+什么是噪音对比估计的定义	噪音对比估计	定义
+什么是噪音对比估计的概念	噪音对比估计	定义
+什么是噪音对比估计	噪音对比估计	定义
+噪音对比估计是什么	噪音对比估计	定义
+噪音对比估计定义	噪音对比估计	定义
+噪音对比估计概念	噪音对比估计	定义
+噪音对比估计	噪音对比估计	定义
+受限玻尔兹曼机的定义是什么	受限玻尔兹曼机	定义
+受限玻尔兹曼机的概念是什么	受限玻尔兹曼机	定义
+什么是受限玻尔兹曼机的定义	受限玻尔兹曼机	定义
+什么是受限玻尔兹曼机的概念	受限玻尔兹曼机	定义
+什么是受限玻尔兹曼机	受限玻尔兹曼机	定义
+受限玻尔兹曼机是什么	受限玻尔兹曼机	定义
+受限玻尔兹曼机定义	受限玻尔兹曼机	定义
+受限玻尔兹曼机概念	受限玻尔兹曼机	定义
+受限玻尔兹曼机	受限玻尔兹曼机	定义
+循环神经网络的定义是什么	循环神经网络	定义
+循环神经网络的概念是什么	循环神经网络	定义
+什么是循环神经网络的定义	循环神经网络	定义
+什么是循环神经网络的概念	循环神经网络	定义
+什么是循环神经网络	循环神经网络	定义
+循环神经网络是什么	循环神经网络	定义
+循环神经网络定义	循环神经网络	定义
+循环神经网络概念	循环神经网络	定义
+循环神经网络	循环神经网络	定义
+递归神经网络的定义是什么	递归神经网络	定义
+递归神经网络的概念是什么	递归神经网络	定义
+什么是递归神经网络的定义	递归神经网络	定义
+什么是递归神经网络的概念	递归神经网络	定义
+什么是递归神经网络	递归神经网络	定义
+递归神经网络是什么	递归神经网络	定义
+递归神经网络定义	递归神经网络	定义
+递归神经网络概念	递归神经网络	定义
+递归神经网络	递归神经网络	定义
+relu的定义是什么	relu	定义
+relu的概念是什么	relu	定义
+什么是relu的定义	relu	定义
+什么是relu的概念	relu	定义
+什么是relu	relu	定义
+relu是什么	relu	定义
+relu定义	relu	定义
+relu概念	relu	定义
+relu	relu	定义
+残差网络的定义是什么	残差网络	定义
+残差网络的概念是什么	残差网络	定义
+什么是残差网络的定义	残差网络	定义
+什么是残差网络的概念	残差网络	定义
+什么是残差网络	残差网络	定义
+残差网络是什么	残差网络	定义
+残差网络定义	残差网络	定义
+残差网络概念	残差网络	定义
+残差网络	残差网络	定义
+rmsprop的定义是什么	rmsprop	定义
+rmsprop的概念是什么	rmsprop	定义
+什么是rmsprop的定义	rmsprop	定义
+什么是rmsprop的概念	rmsprop	定义
+什么是rmsprop	rmsprop	定义
+rmsprop是什么	rmsprop	定义
+rmsprop定义	rmsprop	定义
+rmsprop概念	rmsprop	定义
+rmsprop	rmsprop	定义
+序列到序列的定义是什么	序列到序列	定义
+序列到序列的概念是什么	序列到序列	定义
+什么是序列到序列的定义	序列到序列	定义
+什么是序列到序列的概念	序列到序列	定义
+什么是序列到序列	序列到序列	定义
+序列到序列是什么	序列到序列	定义
+序列到序列定义	序列到序列	定义
+序列到序列概念	序列到序列	定义
+序列到序列	序列到序列	定义
+随机梯度下降（sgd：stochastic gradient descent）的定义是什么	随机梯度下降（sgd：stochastic gradient descent）	定义
+随机梯度下降（sgd：stochastic gradient descent）的概念是什么	随机梯度下降（sgd：stochastic gradient descent）	定义
+什么是随机梯度下降（sgd：stochastic gradient descent）的定义	随机梯度下降（sgd：stochastic gradient descent）	定义
+什么是随机梯度下降（sgd：stochastic gradient descent）的概念	随机梯度下降（sgd：stochastic gradient descent）	定义
+什么是随机梯度下降（sgd：stochastic gradient descent）	随机梯度下降（sgd：stochastic gradient descent）	定义
+随机梯度下降（sgd：stochastic gradient descent）是什么	随机梯度下降（sgd：stochastic gradient descent）	定义
+随机梯度下降（sgd：stochastic gradient descent）定义	随机梯度下降（sgd：stochastic gradient descent）	定义
+随机梯度下降（sgd：stochastic gradient descent）概念	随机梯度下降（sgd：stochastic gradient descent）	定义
+随机梯度下降（sgd：stochastic gradient descent）	随机梯度下降（sgd：stochastic gradient descent）	定义
+softmax的定义是什么	softmax	定义
+softmax的概念是什么	softmax	定义
+什么是softmax的定义	softmax	定义
+什么是softmax的概念	softmax	定义
+什么是softmax	softmax	定义
+softmax是什么	softmax	定义
+softmax定义	softmax	定义
+softmax概念	softmax	定义
+softmax	softmax	定义
+tensorflow的定义是什么	tensorflow	定义
+tensorflow的概念是什么	tensorflow	定义
+什么是tensorflow的定义	tensorflow	定义
+什么是tensorflow的概念	tensorflow	定义
+什么是tensorflow	tensorflow	定义
+tensorflow是什么	tensorflow	定义
+tensorflow定义	tensorflow	定义
+tensorflow概念	tensorflow	定义
+tensorflow	tensorflow	定义
+theano的定义是什么	theano	定义
+theano的概念是什么	theano	定义
+什么是theano的定义	theano	定义
+什么是theano的概念	theano	定义
+什么是theano	theano	定义
+theano是什么	theano	定义
+theano定义	theano	定义
+theano概念	theano	定义
+theano	theano	定义
+梯度消失问题（vanishing gradient problem）的定义是什么	梯度消失问题（vanishing gradient problem）	定义
+梯度消失问题（vanishing gradient problem）的概念是什么	梯度消失问题（vanishing gradient problem）	定义
+什么是梯度消失问题（vanishing gradient problem）的定义	梯度消失问题（vanishing gradient problem）	定义
+什么是梯度消失问题（vanishing gradient problem）的概念	梯度消失问题（vanishing gradient problem）	定义
+什么是梯度消失问题（vanishing gradient problem）	梯度消失问题（vanishing gradient problem）	定义
+梯度消失问题（vanishing gradient problem）是什么	梯度消失问题（vanishing gradient problem）	定义
+梯度消失问题（vanishing gradient problem）定义	梯度消失问题（vanishing gradient problem）	定义
+梯度消失问题（vanishing gradient problem）概念	梯度消失问题（vanishing gradient problem）	定义
+梯度消失问题（vanishing gradient problem）	梯度消失问题（vanishing gradient problem）	定义
+vgg的定义是什么	vgg	定义
+vgg的概念是什么	vgg	定义
+什么是vgg的定义	vgg	定义
+什么是vgg的概念	vgg	定义
+什么是vgg	vgg	定义
+vgg是什么	vgg	定义
+vgg定义	vgg	定义
+vgg概念	vgg	定义
+vgg	vgg	定义
+word2vec的定义是什么	word2vec	定义
+word2vec的概念是什么	word2vec	定义
+什么是word2vec的定义	word2vec	定义
+什么是word2vec的概念	word2vec	定义
+什么是word2vec	word2vec	定义
+word2vec是什么	word2vec	定义
+word2vec定义	word2vec	定义
+word2vec概念	word2vec	定义
+word2vec	word2vec	定义
+autoencoder的定义是什么	autoencoder	定义
+autoencoder的概念是什么	autoencoder	定义
+什么是autoencoder的定义	autoencoder	定义
+什么是autoencoder的概念	autoencoder	定义
+什么是autoencoder	autoencoder	定义
+autoencoder是什么	autoencoder	定义
+autoencoder定义	autoencoder	定义
+autoencoder概念	autoencoder	定义
+autoencoder	autoencoder	定义
+average-pooling的定义是什么	average-pooling	定义
+average-pooling的概念是什么	average-pooling	定义
+什么是average-pooling的定义	average-pooling	定义
+什么是average-pooling的概念	average-pooling	定义
+什么是average-pooling	average-pooling	定义
+average-pooling是什么	average-pooling	定义
+average-pooling定义	average-pooling	定义
+average-pooling概念	average-pooling	定义
+average-pooling	average-pooling	定义
+backpropagation的定义是什么	backpropagation	定义
+backpropagation的概念是什么	backpropagation	定义
+什么是backpropagation的定义	backpropagation	定义
+什么是backpropagation的概念	backpropagation	定义
+什么是backpropagation	backpropagation	定义
+backpropagation是什么	backpropagation	定义
+backpropagation定义	backpropagation	定义
+backpropagation概念	backpropagation	定义
+backpropagation	backpropagation	定义
+bptt的定义是什么	bptt	定义
+bptt的概念是什么	bptt	定义
+什么是bptt的定义	bptt	定义
+什么是bptt的概念	bptt	定义
+什么是bptt	bptt	定义
+bptt是什么	bptt	定义
+bptt定义	bptt	定义
+bptt概念	bptt	定义
+bptt	bptt	定义
+bn的定义是什么	bn	定义
+bn的概念是什么	bn	定义
+什么是bn的定义	bn	定义
+什么是bn的概念	bn	定义
+什么是bn	bn	定义
+bn是什么	bn	定义
+bn定义	bn	定义
+bn概念	bn	定义
+bn	bn	定义
+bidirectional rnn的定义是什么	bidirectional rnn	定义
+bidirectional rnn的概念是什么	bidirectional rnn	定义
+什么是bidirectional rnn的定义	bidirectional rnn	定义
+什么是bidirectional rnn的概念	bidirectional rnn	定义
+什么是bidirectional rnn	bidirectional rnn	定义
+bidirectional rnn是什么	bidirectional rnn	定义
+bidirectional rnn定义	bidirectional rnn	定义
+bidirectional rnn概念	bidirectional rnn	定义
+bidirectional rnn	bidirectional rnn	定义
+categorical cross-entropy loss的定义是什么	categorical cross-entropy loss	定义
+categorical cross-entropy loss的概念是什么	categorical cross-entropy loss	定义
+什么是categorical cross-entropy loss的定义	categorical cross-entropy loss	定义
+什么是categorical cross-entropy loss的概念	categorical cross-entropy loss	定义
+什么是categorical cross-entropy loss	categorical cross-entropy loss	定义
+categorical cross-entropy loss是什么	categorical cross-entropy loss	定义
+categorical cross-entropy loss定义	categorical cross-entropy loss	定义
+categorical cross-entropy loss概念	categorical cross-entropy loss	定义
+categorical cross-entropy loss	categorical cross-entropy loss	定义
+channel的定义是什么	channel	定义
+channel的概念是什么	channel	定义
+什么是channel的定义	channel	定义
+什么是channel的概念	channel	定义
+什么是channel	channel	定义
+channel是什么	channel	定义
+channel定义	channel	定义
+channel概念	channel	定义
+channel	channel	定义
+cnn的定义是什么	cnn	定义
+cnn的概念是什么	cnn	定义
+什么是cnn的定义	cnn	定义
+什么是cnn的概念	cnn	定义
+什么是cnn	cnn	定义
+cnn是什么	cnn	定义
+cnn定义	cnn	定义
+cnn概念	cnn	定义
+cnn	cnn	定义
+dbn的定义是什么	dbn	定义
+dbn的概念是什么	dbn	定义
+什么是dbn的定义	dbn	定义
+什么是dbn的概念	dbn	定义
+什么是dbn	dbn	定义
+dbn是什么	dbn	定义
+dbn定义	dbn	定义
+dbn概念	dbn	定义
+dbn	dbn	定义
+embedding的定义是什么	embedding	定义
+embedding的概念是什么	embedding	定义
+什么是embedding的定义	embedding	定义
+什么是embedding的概念	embedding	定义
+什么是embedding	embedding	定义
+embedding是什么	embedding	定义
+embedding定义	embedding	定义
+embedding概念	embedding	定义
+embedding	embedding	定义
+exploding gradient problem的定义是什么	exploding gradient problem	定义
+exploding gradient problem的概念是什么	exploding gradient problem	定义
+什么是exploding gradient problem的定义	exploding gradient problem	定义
+什么是exploding gradient problem的概念	exploding gradient problem	定义
+什么是exploding gradient problem	exploding gradient problem	定义
+exploding gradient problem是什么	exploding gradient problem	定义
+exploding gradient problem定义	exploding gradient problem	定义
+exploding gradient problem概念	exploding gradient problem	定义
+exploding gradient problem	exploding gradient problem	定义
+fine-tuning的定义是什么	fine-tuning	定义
+fine-tuning的概念是什么	fine-tuning	定义
+什么是fine-tuning的定义	fine-tuning	定义
+什么是fine-tuning的概念	fine-tuning	定义
+什么是fine-tuning	fine-tuning	定义
+fine-tuning是什么	fine-tuning	定义
+fine-tuning定义	fine-tuning	定义
+fine-tuning概念	fine-tuning	定义
+fine-tuning	fine-tuning	定义
+gradient clipping的定义是什么	gradient clipping	定义
+gradient clipping的概念是什么	gradient clipping	定义
+什么是gradient clipping的定义	gradient clipping	定义
+什么是gradient clipping的概念	gradient clipping	定义
+什么是gradient clipping	gradient clipping	定义
+gradient clipping是什么	gradient clipping	定义
+gradient clipping定义	gradient clipping	定义
+gradient clipping概念	gradient clipping	定义
+gradient clipping	gradient clipping	定义
+inception module的定义是什么	inception module	定义
+inception module的概念是什么	inception module	定义
+什么是inception module的定义	inception module	定义
+什么是inception module的概念	inception module	定义
+什么是inception module	inception module	定义
+inception module是什么	inception module	定义
+inception module定义	inception module	定义
+inception module概念	inception module	定义
+inception module	inception module	定义
+max-pooling的定义是什么	max-pooling	定义
+max-pooling的概念是什么	max-pooling	定义
+什么是max-pooling的定义	max-pooling	定义
+什么是max-pooling的概念	max-pooling	定义
+什么是max-pooling	max-pooling	定义
+max-pooling是什么	max-pooling	定义
+max-pooling定义	max-pooling	定义
+max-pooling概念	max-pooling	定义
+max-pooling	max-pooling	定义
+momentum的定义是什么	momentum	定义
+momentum的概念是什么	momentum	定义
+什么是momentum的定义	momentum	定义
+什么是momentum的概念	momentum	定义
+什么是momentum	momentum	定义
+momentum是什么	momentum	定义
+momentum定义	momentum	定义
+momentum概念	momentum	定义
+momentum	momentum	定义
+mlp的定义是什么	mlp	定义
+mlp的概念是什么	mlp	定义
+什么是mlp的定义	mlp	定义
+什么是mlp的概念	mlp	定义
+什么是mlp	mlp	定义
+mlp是什么	mlp	定义
+mlp定义	mlp	定义
+mlp概念	mlp	定义
+mlp	mlp	定义
+nmt的定义是什么	nmt	定义
+nmt的概念是什么	nmt	定义
+什么是nmt的定义	nmt	定义
+什么是nmt的概念	nmt	定义
+什么是nmt	nmt	定义
+nmt是什么	nmt	定义
+nmt定义	nmt	定义
+nmt概念	nmt	定义
+nmt	nmt	定义
+ntm的定义是什么	ntm	定义
+ntm的概念是什么	ntm	定义
+什么是ntm的定义	ntm	定义
+什么是ntm的概念	ntm	定义
+什么是ntm	ntm	定义
+ntm是什么	ntm	定义
+ntm定义	ntm	定义
+ntm概念	ntm	定义
+ntm	ntm	定义
+nce的定义是什么	nce	定义
+nce的概念是什么	nce	定义
+什么是nce的定义	nce	定义
+什么是nce的概念	nce	定义
+什么是nce	nce	定义
+nce是什么	nce	定义
+nce定义	nce	定义
+nce概念	nce	定义
+nce	nce	定义
+rbn的定义是什么	rbn	定义
+rbn的概念是什么	rbn	定义
+什么是rbn的定义	rbn	定义
+什么是rbn的概念	rbn	定义
+什么是rbn	rbn	定义
+rbn是什么	rbn	定义
+rbn定义	rbn	定义
+rbn概念	rbn	定义
+rbn	rbn	定义
+rnn的定义是什么	rnn	定义
+rnn的概念是什么	rnn	定义
+什么是rnn的定义	rnn	定义
+什么是rnn的概念	rnn	定义
+什么是rnn	rnn	定义
+rnn是什么	rnn	定义
+rnn定义	rnn	定义
+rnn概念	rnn	定义
+rnn	rnn	定义
+recursive neural network的定义是什么	recursive neural network	定义
+recursive neural network的概念是什么	recursive neural network	定义
+什么是recursive neural network的定义	recursive neural network	定义
+什么是recursive neural network的概念	recursive neural network	定义
+什么是recursive neural network	recursive neural network	定义
+recursive neural network是什么	recursive neural network	定义
+recursive neural network定义	recursive neural network	定义
+recursive neural network概念	recursive neural network	定义
+recursive neural network	recursive neural network	定义
+resnet的定义是什么	resnet	定义
+resnet的概念是什么	resnet	定义
+什么是resnet的定义	resnet	定义
+什么是resnet的概念	resnet	定义
+什么是resnet	resnet	定义
+resnet是什么	resnet	定义
+resnet定义	resnet	定义
+resnet概念	resnet	定义
+resnet	resnet	定义
+seq2seq的定义是什么	seq2seq	定义
+seq2seq的概念是什么	seq2seq	定义
+什么是seq2seq的定义	seq2seq	定义
+什么是seq2seq的概念	seq2seq	定义
+什么是seq2seq	seq2seq	定义
+seq2seq是什么	seq2seq	定义
+seq2seq定义	seq2seq	定义
+seq2seq概念	seq2seq	定义
+seq2seq	seq2seq	定义
+sgd的定义是什么	sgd	定义
+sgd的概念是什么	sgd	定义
+什么是sgd的定义	sgd	定义
+什么是sgd的概念	sgd	定义
+什么是sgd	sgd	定义
+sgd是什么	sgd	定义
+sgd定义	sgd	定义
+sgd概念	sgd	定义
+sgd	sgd	定义
+深度学习 的定义是什么	深度学习 	定义
+深度学习 的概念是什么	深度学习 	定义
+什么是深度学习 的定义	深度学习 	定义
+什么是深度学习 的概念	深度学习 	定义
+什么是深度学习 	深度学习 	定义
+深度学习 是什么	深度学习 	定义
+深度学习 定义	深度学习 	定义
+深度学习 概念	深度学习 	定义
+深度学习 	深度学习 	定义
+机器学习的定义是什么	机器学习	定义
+机器学习的概念是什么	机器学习	定义
+什么是机器学习的定义	机器学习	定义
+什么是机器学习的概念	机器学习	定义
+什么是机器学习	机器学习	定义
+机器学习是什么	机器学习	定义
+机器学习定义	机器学习	定义
+机器学习概念	机器学习	定义
+机器学习	机器学习	定义
+人工智能的定义是什么	人工智能	定义
+人工智能的概念是什么	人工智能	定义
+什么是人工智能的定义	人工智能	定义
+什么是人工智能的概念	人工智能	定义
+什么是人工智能	人工智能	定义
+人工智能是什么	人工智能	定义
+人工智能定义	人工智能	定义
+人工智能概念	人工智能	定义
+人工智能	人工智能	定义
